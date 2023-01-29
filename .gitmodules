@@ -1,0 +1,6 @@
+[submodule "Frontend"]
+	path = cinch
+	url = https://github.com/dvnasutosh/FE-Ecomm.git
+[submodule "Backend"]
+	path = simple
+	url = https://github.com/Rajeshwaran2001/ecom.git
